@@ -1,6 +1,7 @@
 Learning React JS
 
-//Lecture 1 -- CREATE A REACT PROJECT
+**Lecture 1 -- CREATE A REACT PROJECT**
+
 //creation through **create-react-app utility** 
 1) To create react project we use    "npx create-react-app --name of project--"
       require a lot of time -- old method 
@@ -35,7 +36,27 @@ Learning React JS
    with app.jsx and main.jsx  
 
 
+**Lecture 2 -- Folder Structure and Workflow** 
 
-                       
+1) PackageLock.Json ek file hqi jisme hum stable version ke sab mention kar dete hai 
+   manifest.json : tab use me ati hai jab hum hmri website ko mobile me open karte hai 
+   robots.txt : for search engine 
+
+   index.html : single file available in public subFolder -- SIngle Page Application
+    
+2) Html me directly koi script linked nhi hoti hai, vo source se ati hai and hum kuch bi naming de sakte h.
+   moreover, react-script ka use karte hai hum to inject the script into the html file 
+
+3) React creates a virtual DOM and then comapre it with real DOM. Thereby Facilitating the manipulation.
+
+4) JAb components bante hai tab jsx rakhte hai name, yeh vite me dhyan dena padega..but in create react app
+   me .js karke ek file bana sakta hu.
+
+5) Component ka naam uppercase se start karna rehta hai, warna import ke time roo deta hai react.
+
+   
+**Lecture 3- Creating Your own react Library and JSX**
+
+1) Custom react element kaise banta hai yeh dekha sari working 03Customreact folder me hai 
 
 
