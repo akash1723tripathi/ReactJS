@@ -60,3 +60,8 @@ Learning React JS
 1) Custom react element kaise banta hai yeh dekha sari working 03Customreact folder me hai 
 
 
+**Lecture 4 - Hooks**
+
+1) Hooks ka use cheze update karna ya kisi UI me change lane ke liye karte hai -- changes propagation 
+2) reference -- https://github.com/facebook/react/blob/main/packages/react/src/ReactHooks.js
+
