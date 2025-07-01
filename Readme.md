@@ -109,3 +109,9 @@ Learning React JS
 
 Must read the the document:-
 https://github.com/acdlite/react-fiber-architecture
+
+
+**Lecture 6 : Tailwind and Props**
+
+1) Tailwiind ki website pe link karne ka process hai 
+2) Component me naming convention ka bahut dhyan rakhna hai-- 
