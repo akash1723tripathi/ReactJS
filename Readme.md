@@ -13,7 +13,7 @@ Learning React JS
 3) Further, now check that you are in yout project file in terminal --- \01basic_react>
       command -- dir -- check the project is showing the package.json file  
       command -- npm run start
-      command -- npm run build --creates a deploy ready environment fro development 
+      command -- npm run build --creates a deploy ready environment for development 
                                  inside the static folder you can all the css js file that has been written in react converted. 
                                  one time generate hota hai..  
 
@@ -115,3 +115,10 @@ https://github.com/acdlite/react-fiber-architecture
 
 1) Tailwiind ki website pe link karne ka process hai 
 2) Component me naming convention ka bahut dhyan rakhna hai-- 
+
+
+**Lecture 7: Creating a Password Generator Using React**
+1) UseCallBack : method ko memorize karta hai, previous state kok reuse karne ke liye 
+2) UseEffect : jab bipage ya depoencies array me elements me kisi me change ata hai toh re run karega to 
+               update the states
+3) UseRef : Reference create karne ke liye use karte hai, passkarte hai reference to update it 
