@@ -80,7 +80,7 @@ function App() {
           </div>
 
           {/* Number Checkbox */}
-          <div className="flex items-center gap-x-1 whitespace-nowrap">
+          <div className="flex items-center gap-x-1 whitespace-nowrap ">
             <input
               type="checkbox"
               checked={numAllowed}
