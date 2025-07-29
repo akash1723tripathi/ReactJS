@@ -122,3 +122,21 @@ https://github.com/acdlite/react-fiber-architecture
 2) UseEffect : jab bipage ya depoencies array me elements me kisi me change ata hai toh re run karega to 
                update the states
 3) UseRef : Reference create karne ke liye use karte hai, passkarte hai reference to update it 
+
+
+**Lecture 8 : Creating a Currency Converter**
+
+1) emphasized on the developing custom hooks
+
+
+**Lecture 9 : React Router**
+
+1) React Router allows you to navigate between different components or views in a React app just like 
+   webpages, but without full-page reloads.
+2) Industrial Standards ke according devlop karne ke liye pahle components bante hai
+3) **Link Tag** is used to navigate to a different route without reloading the page instead of using  
+   a traditional **anchor tag** which would cause a full page reload.
+4) **NavLink** = Link + Active styling support
+5) **<Outlet />** React Router ka special component hai jo nested routes ke liye use hota hai.
+   Think of it as a placeholder — jahan pe nested child route render hoga.
+6) Dicussed to ways of creating router path 
