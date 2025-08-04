@@ -140,3 +140,16 @@ https://github.com/acdlite/react-fiber-architecture
 5) **<Outlet />** React Router ka special component hai jo nested routes ke liye use hota hai.
    Think of it as a placeholder — jahan pe nested child route render hoga.
 6) Dicussed to ways of creating router path 
+
+
+**Lecture 10 - Context API**
+1) Context API is a state management hook/system like redux which is used to overcome problems of prop drilling. 
+
+old way ::  Grandmaster->grandfather->father->children->target
+new way ::  Declaration of useContext provider
+
+2) Context declaration ya creation ke sath ek provider bi create karna padta hai.
+   context file .js
+   provider file .jsx
+
+3) UserContextProvider ka use karte hai fir to give out reference in App.jsx or main.jsx 
